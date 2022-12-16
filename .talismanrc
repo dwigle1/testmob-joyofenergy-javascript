@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: mob-session.sh
+  checksum: 149ea753c31db90800dd50f8cad231f49519336d8feabaae22ad9c2fe9eb3ea6
+version: "1.0"

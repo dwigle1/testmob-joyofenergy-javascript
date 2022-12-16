@@ -1,3 +1,23 @@
+# Mob session - sh
+
+- `sh mob-session.sh --start` Only run once at the start of the mob session
+- `sh mob-session.sh --pass` Current driver uses this to pass the mob along
+- `sh mob-session.sh --receive` Next driver uses this to receive the mob
+- `sh mob-session.sh --finish` Run once at the end of the mob session
+
+# Mob session - [mob](https://github.com/remotemobprogramming/mob)
+
+Mob
+- install `brew install remotemobprogramming/brew/mob`
+- `mob start` switch to a branch to mob on
+- `mob next` handover driver to next person
+- `mob done` moves changes to staging area of main
+
+Timer
+- `timer <#>`
+- `start <#>` start a mob session in branch with timer
+- `break <#>` start a break timer
+
 # Welcome to PowerDale
 
 PowerDale is a small town with around 100 residents. Most houses have a smart meter installed that can save and send
