@@ -14,9 +14,9 @@ Mob
 - `mob done` moves changes to staging area of main
 
 Timer
-- `timer <#>`
-- `start <#>` start a mob session in branch with timer
-- `break <#>` start a break timer
+- `mob timer <#>`
+- `mob start <#>` start a mob session in branch with timer
+- `mob break <#>` start a break timer
 
 # Welcome to PowerDale
 
