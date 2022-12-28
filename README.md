@@ -8,7 +8,7 @@
 # Mob session - [mob](https://github.com/remotemobprogramming/mob)
 
 Mob
-- install `brew install remotemobprogramming/brew/mob`
+- run `curl -sL install.mob.sh | sudo sh` 
 - `mob start` switch to a branch to mob on
 - `mob next` handover driver to next person
 - `mob done` moves changes to staging area of main
