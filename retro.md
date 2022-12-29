@@ -24,3 +24,41 @@ Things to continue:
 - abiding by the timer
 - using mob,
 - make sure you save before mob next
+
+Day 2
+-----
+
+1.
+How does this feel?
+- Okay
+- Refamiliarizing ourselves with the codebase, 15 minutes
+- Felt slow
+
+Things to continue:
+
+Things to change:
+- At end of session let's do a short write-up / summary what we were looking at, ideas, last thoughts on direction at EOD
+
+2.
+How does this feel?
+- This felt much more productive
+- Out of the familiarize phase
+- Able to write code and perform a test
+
+Things to continue / change?
+- Keep writing tests, refactoring 
+- Review the story
+
+3.
+How does this feel?
+- developing an understanding of how application works
+
+Things to continue / change?
+- try hack through for 5 minutes without commiting
+
+Recap and next steps
+
+Recap:
+building out cost controller
+how to attach priceplan to meterid
+usage.js module exports that might be useful to pulling costs 
